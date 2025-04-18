@@ -1,0 +1,48 @@
+# 📊 Data Science Practicals
+
+This repository contains a collection of hands-on practicals designed to help you learn and apply core concepts of data science using tools like Excel, Python, and statistical techniques.
+
+---
+
+## ✅ PRACTICAL LIST
+
+### 🧮 PRACTICAL 1: Introduction to Excel
+- A. Perform conditional formatting on a dataset using various criteria.
+- B. Create a pivot table to analyze and summarize data.
+- C. Use the VLOOKUP function to retrieve information from a different worksheet or table.
+
+### 🧾 PRACTICAL 2: Data Frames and Basic Data Pre-processing
+- A. Read data from CSV and JSON files into a DataFrame.
+- B. Perform basic data pre-processing tasks such as handling missing values and outliers.
+
+### 📏 PRACTICAL 3: Feature Scaling and Dummification
+- A. Apply feature-scaling techniques like standardization and normalization to numerical features.
+- B. Perform feature dummification to convert categorical variables into numerical representations.
+
+### 🧪 PRACTICAL 4: Hypothesis Testing
+- Conduct a hypothesis test using appropriate statistical tests (e.g., t-test, chi-square test).
+
+### 📊 PRACTICAL 5: ANOVA (Analysis of Variance)
+- Perform one-way ANOVA to compare means across multiple groups.
+- Conduct post-hoc tests to identify significant differences between group means.
+
+### 📈 PRACTICAL 6: Regression and its Types
+
+### 🌲 PRACTICAL 7: Logistic Regression and Decision Tree
+
+### 📌 PRACTICAL 8: K-Means Clustering
+
+### 🔍 PRACTICAL 9: Principal Component Analysis (PCA)
+
+### 📊 PRACTICAL 10: Data Visualization and Storytelling
+
+---
+
+## 💻 Technologies Used
+- Microsoft Excel
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📂 Folder Structure (Suggested)
