@@ -1,0 +1,11 @@
+StudentID,Name,Gender,Math,Science,English,Passed
+101,Alice,F,78,85,88,Yes
+102,Bob,M,,62,58,No
+103,Charlie,M,90,,93,Yes
+104,Diana,F,45,52,48,No
+105,Ethan,M,,73,70,Yes
+106,Fatima,F,82,,85,Yes
+107,George,M,59,60,55,No
+108,Hannah,F,95,98,92,Yes
+109,Ian,M,33,,38,No
+110,Jenny,F,74,77,,Yes
